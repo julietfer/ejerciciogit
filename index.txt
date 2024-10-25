@@ -1,1 +1,2 @@
 actividad herramientas de versionamiento git istalada y configurada
+nombre de usuario julietfer email juliet.navarrete@soy.sena.edu.co
